@@ -1,2 +1,2 @@
 # money
-money description blyat
+money description bla
