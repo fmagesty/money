@@ -13,16 +13,17 @@ For now the initial commit was just `init` and the main types for commits used h
 
 Other types that can be used are: `build`, `chore`, `style`, `test`, `ci`. In general, anything that does not go too far from the Conventional Commits documentation (see the References section) is fair game
 
-Example: `git commit -m 'fea:add dynamic counter for acc interface display'`
+Example:
+- `git commit -m 'fea:add dynamic counter for acc interface display'`
 
-**Notes:**
+Note: The lack of spacing around the `:` is intended to save space on the commit message
 
-- Please notice the lack of spacing around the `:`. This is intended to save space on the commit message
-- Also try not to exceed 50 characters on the commit message
 
 **References:**
 
 - [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+
+- [The Catalog of Design Patterns from Refactoring Guru](https://refactoring.guru/design-patterns/catalog)
 
 # TODO:
 
