@@ -14,10 +14,7 @@ For now the initial commit was just `init` and the main types for commits used h
 Other types that can be used are: `build`, `chore`, `style`, `test`, `ci`. In general, anything that does not go too far from the Conventional Commits documentation (see the References section) is fair game
 
 Example:
-- `git commit -m 'fea:add dynamic counter for acc interface display'`
-
-Note: The lack of spacing around the `:` is intended to save space on the commit message
-
+- `git commit -m 'fea  add dynamic counter for acc interface display'`
 
 **References:**
 
