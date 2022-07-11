@@ -1,3 +1,8 @@
 .DS_Store
-node_modules
 dist/
+node_modules
+
+# ENV FILES
+src/common/envs/.env
+src/common/envs/development.env
+src/common/envs/production.env
